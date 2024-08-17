@@ -1,0 +1,21 @@
+~ intro 
+
+# basic 
+- all coding and editing will be done on android studio .
+- language used : kotlin .
+
+# notes 
+
+- what is an activity in android ?
+    - the screen or interface the user see .
+
+- what are compossables ?
+    - they represents the UI and can either contains other compossables or be the visible elements itself .
+
+- what does the preview at the end of the code means ?
+    - it allows the devlopers to see a visual representation of the application part without running the code .
+    - any change in compossables of preview doesn't effect the compossables in the main app .
+
+
+
+
